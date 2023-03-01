@@ -1,4 +1,4 @@
-package aes
+package aesx
 
 import (
 	"github.com/stretchr/testify/assert"
